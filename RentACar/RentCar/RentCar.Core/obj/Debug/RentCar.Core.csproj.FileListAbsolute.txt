@@ -1,0 +1,15 @@
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\bin\Debug\RentCar.Core.dll.config
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\bin\Debug\RentCar.Core.dll
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\bin\Debug\RentCar.Core.pdb
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\bin\Debug\EntityFramework.dll
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\bin\Debug\RentCar.Data.dll
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\bin\Debug\RentCar.Data.pdb
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\bin\Debug\RentCar.Data.dll.config
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\bin\Debug\EntityFramework.xml
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\obj\Debug\RentCar.Core.csprojAssemblyReference.cache
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\obj\Debug\RentCar.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\obj\Debug\RentCar.Core.csproj.CopyComplete
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\obj\Debug\RentCar.Core.dll
+C:\Users\Bekir Furkan Zadegil\Desktop\RentACar\RentCar\RentCar.Core\obj\Debug\RentCar.Core.pdb

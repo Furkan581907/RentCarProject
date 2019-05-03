@@ -1,0 +1,9 @@
+﻿@model List<RentCar.Data.Domain.Car>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Root.cshtml";
+}
+
+<h2>Index</h2>
+@Html.Action("HomePageCars","Cars")
+
